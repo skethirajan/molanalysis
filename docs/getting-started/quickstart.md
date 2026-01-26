@@ -1,16 +1,16 @@
 # Quick Start
 
-This guide will help you get started with package_name.
+This guide will help you get started with molanalysis.
 
 ## Basic Usage
 
 ```python
 from __future__ import annotations
 
-import package_name
+import molanalysis
 
 # Check version
-print(package_name.__version__)
+print(molanalysis.__version__)
 ```
 
 ## Next Steps

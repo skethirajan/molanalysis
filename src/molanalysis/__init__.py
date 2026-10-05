@@ -1,4 +1,4 @@
-"""molanalysis: Short package description."""
+"""Molanalysis: Short package description."""
 
 from __future__ import annotations
 
